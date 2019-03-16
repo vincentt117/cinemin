@@ -18,3 +18,9 @@ avengers-endgame: ❌   https://www.cineplex.com/Movie/avengers-endgame
 green-book: ✅   https://www.cineplex.com/Movie/green-book
 
 ```
+
+## Dependencies
+For python3
+pip3 install emoji
+pip3 install lxml
+pip3 install requests
