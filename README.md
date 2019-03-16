@@ -20,7 +20,10 @@ green-book: ✅   https://www.cineplex.com/Movie/green-book
 ```
 
 ## Dependencies
-For python3  
+For python3:  
+ 
+```
 pip3 install emoji  
 pip3 install lxml  
-pip3 install requests  
+pip3 install requests 
+```
